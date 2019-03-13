@@ -1,5 +1,6 @@
 # hello_world
-quick first repository to get started
+
+
 
 Hi everyone!
 I just wanted to officially test my hand at GitHub and learn how to make/commit changes. 
@@ -8,3 +9,5 @@ My computer science journey has just begun!
 
 Cheers,
 Rick.
+
+
